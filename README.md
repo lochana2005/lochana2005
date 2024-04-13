@@ -53,7 +53,7 @@
 <p align="center">
 <a href="https://www.youtube.com/channel/UCiXFCxRdvYTS2gBIkicRfXQ" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="lochanapahansilu" height="50" width="50" /></a>
 <a href="www.linkedin.com/in/lochana-pahansilu-b7610b268" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" /></a>
-<a href="[https://stackoverflow.com/users/22345746/kaveen-dinethma](https://stackoverflow.com/users/21902936/lochana-pahansilu?tab=profile)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kaveen-dinethma" height="50" width="50" /></a>
+<a href="[[https://stackoverflow.com/users/22345746/kaveen-dinethma](https://stackoverflow.com/users/21902936/lochana-pahansilu?tab=profile)](https://stackoverflow.com/users/21902936/lochana-pahansilu?tab=profile)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kaveen-dinethma" height="50" width="50" /></a>
 <a href="https://fb.com/jal.pahansilu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveen dinethma" height="50" width="50" /></a>
 <a href="https://www.instagram.com/lochana_pahansilu/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="kavee_dineth" height="50" width="50" /></a>
 </p>
