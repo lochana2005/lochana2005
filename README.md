@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **lochanamax38@@gmail.com**
   
-- ⚡ Fun fact **Call me as KD**
+- ⚡ Fun fact **Call me as LP**
 
 </td>
 <td width="50%" align="center">
