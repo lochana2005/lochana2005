@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **kaveen.dinethma@gmail.com**
+- 📫 How to reach me **lochanamax38@@gmail.com**
   
 - ⚡ Fun fact **Call me as KD**
 
