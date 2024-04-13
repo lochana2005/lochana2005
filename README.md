@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Lochana Pahansilu</h1>
 <h3 align="center">Full Stack SE/ Full Stack Web Developer from Sri Lanka</h3>
 
