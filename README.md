@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Lochana Pahansilu</h1>
 <h3 align="center">Full Stack SE/ Full Stack Web Developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lochana2005&label=Profile%20views&color=0e75b6&style=flat" alt="lochana2005" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lochana2005&label=Profile%20views&color=0e75b6&style=flat" alt="lochana2005" /> </p>
 
 - 🔭 I’m currently working on **Surabe_Web**
 
