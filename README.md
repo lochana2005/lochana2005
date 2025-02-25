@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **lochanamax38@gmail.com**
   
-- ⚡ Fun fact **Call me as LP**
+- ⚡ Fun fact **Call me as Lochana Pahansilu**
 
 </td>
 <td width="50%" align="center">
