@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Java/ C++/ C#/ PHP/ JS/ React**
 
-- 📫 How to reach me **lochanamax38@@gmail.com**
+- 📫 How to reach me **lochanamax38@gmail.com**
   
 - ⚡ Fun fact **Call me as LP**
 
