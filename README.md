@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Java/ C++/ C#/ PHP/ JS/ React**
 
-- 🌐 Portfolio: **https://lochana.vercel.app/**
+- 🌐 Portfolio: **https://lochanapahansilu.me/**
 
 - 📫 How to reach me **lochanamax38@gmail.com**
   
